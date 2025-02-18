@@ -1,5 +1,5 @@
 ## Communication Engineering Lab
-- **[Ahnaf Shahrear Khan](https://github.com/ahnafshahrear)**
+- **[Md Rony Islam](https://github.com/mdronyislamheemel)**
 - **Computer Science & Engineering, University of Rajshahi**
 - **Code: `ICE-3262`**
 
